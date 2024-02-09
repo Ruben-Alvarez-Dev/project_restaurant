@@ -22,7 +22,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-        <a class="navbar-brand" href="#"></a>
+        <a class="navbar-brand" href="#">VeruRu Restaurant</a>
         <button
             class="navbar-toggler"
             type="button"
@@ -37,14 +37,21 @@
 
         <div class="collapse navbar-collapse" id="navbarNav">        
     
-        <ul class="nav navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link active" href="#" aria-current="page"
-                    >Nav 1 <span class="visually-hidden">(current)</span></a
-                >
+        <ul class="nav navbar-nav ml-auto">
+        <li class="nav-item">
+                <a class="nav-link" href="#home">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Nav 2</a>
+                <a class="nav-link" href="#today">Today's Specials</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#chefs">Chefs</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#testimonials">Testimonials</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#contact">Contact</a>
             </li>
         </ul>
 
@@ -57,11 +64,20 @@
         </header>
 
         <main>
-
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis a corrupti, at hic reiciendis dolor distinctio reprehenderit! Deleniti repellat, molestias, beatae, quos eum in ipsa nihil dolore qui ex itaque?
+            Amet, cumque enim. Perspiciatis quasi ratione, exercitationem magnam commodi dolor ipsa autem fuga, deserunt, architecto temporibus consequuntur culpa vero a reiciendis illum aut. Praesentium consectetur temporibus perspiciatis, atque nihil fugit!
+            Nam quod voluptatibus nulla libero iusto placeat, perferendis deleniti dolorum cumque autem modi ab eum repellendus. Tenetur tempora, quos laudantium eligendi exercitationem odio aspernatur rem autem. Illo repellendus consequuntur maiores.
+            Veniam eum facere sit, architecto quo magni maiores vel officiis accusamus! Culpa architecto minus excepturi animi expedita explicabo, blanditiis, vero saepe praesentium delectus perferendis corporis doloribus ea cum at incidunt.
+            Saepe distinctio delectus praesentium dignissimos inventore porro, aut officiis facilis soluta ex numquam! Aspernatur voluptatem impedit velit natus accusantium non aliquam, dicta, maxime iusto fuga et laudantium, alias neque dolor.
+            Eveniet optio fugit quas, numquam consequatur sit deleniti officia, velit temporibus reprehenderit deserunt? Alias consectetur atque minus, culpa, voluptates illum maxime dolorum nihil dolore, perspiciatis perferendis possimus aliquam adipisci enim.
+            Ipsa sed asperiores iste omnis vel iure! Est ut repellat modi voluptas dolorem consequuntur unde, dolore voluptatibus mollitia eaque exercitationem nihil debitis atque consectetur deserunt explicabo, officiis, blanditiis fugit quia!
+            Similique ad qui exercitationem in sapiente aliquid tenetur voluptas. Corporis necessitatibus odit mollitia hic neque magnam praesentium ea ab optio placeat numquam quod minus, ipsa possimus quo corrupti totam eos.
+            Facilis quia, laudantium praesentium ea, non culpa, nam soluta hic pariatur eius fuga deserunt veritatis eveniet cumque laborum quis adipisci quos id. Dolore eaque tempore ea hic molestiae? Quis, dicta.
+            Nisi distinctio consequatur laboriosam nulla possimus perspiciatis commodi odit in, architecto voluptatibus beatae ducimus quae doloribus ad totam voluptates doloremque quod! Obcaecati delectus eligendi ipsum perferendis? Sint cumque consequuntur enim!</p>
         </main>
 
-        <footer>
-            <!-- place footer here -->
+        <footer class="bg-dark text-light text-center">
+            <p> &copy; 2024 VeroRu Restaurant, all rights reserved.</p>
         </footer>
 
         <!-- Bootstrap JavaScript Libraries -->
