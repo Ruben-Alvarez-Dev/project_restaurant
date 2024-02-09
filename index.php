@@ -19,13 +19,51 @@
     </head>
 
     <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#"></a>
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            >Restaurant
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">        
+    
+        <ul class="nav navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link active" href="#" aria-current="page"
+                    >Nav 1 <span class="visually-hidden">(current)</span></a
+                >
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Nav 2</a>
+            </li>
+        </ul>
+
+    </div>
+    </nav>
+    
+
         <header>
             <!-- place navbar here -->
         </header>
-        <main></main>
+
+        <main>
+
+        </main>
+
         <footer>
             <!-- place footer here -->
         </footer>
+
         <!-- Bootstrap JavaScript Libraries -->
         <script
             src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
