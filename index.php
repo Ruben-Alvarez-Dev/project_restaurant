@@ -67,21 +67,26 @@
             </div>
     </section>
 
+    <section id="id" class="container mt-4 text">
+
+        <div class="jumbotron bg-dark text-white text-center">
+
+            <br/>
+                <h2>Lorem ipsum dolor sit amet.</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, rem?</p>
+            <br/>
+                    
+        </div>
+        
+        
+    </section>
+
         <header>
             <!-- place navbar here -->
         </header>
 
         <main>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis a corrupti, at hic reiciendis dolor distinctio reprehenderit! Deleniti repellat, molestias, beatae, quos eum in ipsa nihil dolore qui ex itaque?
-            Amet, cumque enim. Perspiciatis quasi ratione, exercitationem magnam commodi dolor ipsa autem fuga, deserunt, architecto temporibus consequuntur culpa vero a reiciendis illum aut. Praesentium consectetur temporibus perspiciatis, atque nihil fugit!
-            Nam quod voluptatibus nulla libero iusto placeat, perferendis deleniti dolorum cumque autem modi ab eum repellendus. Tenetur tempora, quos laudantium eligendi exercitationem odio aspernatur rem autem. Illo repellendus consequuntur maiores.
-            Veniam eum facere sit, architecto quo magni maiores vel officiis accusamus! Culpa architecto minus excepturi animi expedita explicabo, blanditiis, vero saepe praesentium delectus perferendis corporis doloribus ea cum at incidunt.
-            Saepe distinctio delectus praesentium dignissimos inventore porro, aut officiis facilis soluta ex numquam! Aspernatur voluptatem impedit velit natus accusantium non aliquam, dicta, maxime iusto fuga et laudantium, alias neque dolor.
-            Eveniet optio fugit quas, numquam consequatur sit deleniti officia, velit temporibus reprehenderit deserunt? Alias consectetur atque minus, culpa, voluptates illum maxime dolorum nihil dolore, perspiciatis perferendis possimus aliquam adipisci enim.
-            Ipsa sed asperiores iste omnis vel iure! Est ut repellat modi voluptas dolorem consequuntur unde, dolore voluptatibus mollitia eaque exercitationem nihil debitis atque consectetur deserunt explicabo, officiis, blanditiis fugit quia!
-            Similique ad qui exercitationem in sapiente aliquid tenetur voluptas. Corporis necessitatibus odit mollitia hic neque magnam praesentium ea ab optio placeat numquam quod minus, ipsa possimus quo corrupti totam eos.
-            Facilis quia, laudantium praesentium ea, non culpa, nam soluta hic pariatur eius fuga deserunt veritatis eveniet cumque laborum quis adipisci quos id. Dolore eaque tempore ea hic molestiae? Quis, dicta.
-            Nisi distinctio consequatur laboriosam nulla possimus perspiciatis commodi odit in, architecto voluptatibus beatae ducimus quae doloribus ad totam voluptates doloremque quod! Obcaecati delectus eligendi ipsum perferendis? Sint cumque consequuntur enim!</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis a corrupti, at hic reiciendis dolor distinctio reprehenderit! Deleniti repellat, molestias, beatae, quos eum in ipsa nihil dolore qui ex itaque?</p>
         </main>
 
         <footer class="bg-dark text-light text-center">
