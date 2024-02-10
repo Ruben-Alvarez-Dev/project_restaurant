@@ -2,7 +2,6 @@
 <html lang="en">
     <head>
         <title>Title</title>
-        <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
             name="viewport"
@@ -22,7 +21,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-        <a class="navbar-brand" href="#">VeruRu Restaurant</a>
+        <a class="navbar-brand" href="#">VeroRu Restaurant</a>
         <button
             class="navbar-toggler"
             type="button"
@@ -57,7 +56,16 @@
 
     </div>
     </nav>
-    
+        
+    <section id="banner" class="container-fluid p-0">
+            <div class="banner-img" style="position:relative; background:url('./images/background2.png') center/cover no-repeat; height:400px">
+                <div class="banner-text" style="position:absolute; top:50%; left:50%; transform: translate(-50%, -50%); text-align:center; color:#fff">
+                    <h1>Welcome to VeroRu!</h1>
+                    <p>We´ve got the level...</p>
+                    <a href="#menu" class="btn btn-primary">View Menu</a>
+                </div>
+            </div>
+    </section>
 
         <header>
             <!-- place navbar here -->
